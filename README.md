@@ -1,3 +1,4 @@
+![logo](https://github.com/TasinKazi/TasinKazi/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tasin</h1>
 <h3 align="center">Aspiring Software Engineer with solid challenge-solving skills. Excited to solve new difficulties with a team.</h3>
 
