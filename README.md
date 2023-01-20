@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasin</h1>
 <h3 align="center">Aspiring Software Engineer with solid challenge-solving skills. Excited to solve new difficulties with a team.</h3>
-<img align="right" alt="Coding" width="400" src="https://37.media.tumblr.com/414e18acb971a77d68d791b36b17e63d/tumblr_nan41fLPJf1scy4uko1_500.gif">
+<img align="right" alt="Coding" width="200" src="https://37.media.tumblr.com/414e18acb971a77d68d791b36b17e63d/tumblr_nan41fLPJf1scy4uko1_500.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasinkazi&label=Profile%20views&color=0e75b6&style=flat" alt="tasinkazi" /> </p>
