@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead](https://wallpapercave.com/w/wp3082255)
 <h1 align="center">Hi 👋, I'm Tasin</h1>
 <h3 align="center">Aspiring Software Engineer with solid challenge-solving skills. Excited to solve new difficulties with a team.</h3>
 
